@@ -2,7 +2,7 @@
 ### Hi, I'm Abby!
 - 👩🏻‍💻  Student at Grinnell College studying Computer Science and Statistics
 - 📍  From St. Louis, MO
-- 💻  Facilitator/Instructor with the Grinnell College chapter of [Girls Who Code](https://girlswhocode.com)
+- 💻  Volunteer Facilitator/Instructor with the Grinnell College chapter of [Girls Who Code](https://girlswhocode.com)
 - 🌱  Currently working on my personal website
 <!--TODO: Add resume link-->
   [![Email](https://img.shields.io/badge/-EMAIL-20B2AA?style=for-the-badge)](mailto:abigailressner@gmail.com)
