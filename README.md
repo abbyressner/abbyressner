@@ -11,4 +11,4 @@
 
 #### 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py,html,css,js,ts,tailwind,react,nextjs,r,sql,md,latex,linux,github,git,eclipse,vscode,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py,html,css,js,ts,tailwind,react,nextjs,r,sqlite,md,latex,linux,github,git,eclipse,vscode,vercel)](https://skillicons.dev)
